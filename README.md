@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence, web development, and data science.
 - 🌱 I’m currently learning coding, development, and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects, innovative AI solutions, and hackathons.
-- 📫 How to reach me: [www.linkedin.com/in/ankita-agrawal12]
+- 📫 How to reach me: www.linkedin.com/in/ankita-agrawal12
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and often participate in escape room challenges
 
