@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AnkitaAgrawal12
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning Coding, development and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in artificial intelligence, web development, and data science.
+- 🌱 I’m currently learning coding, development, and machine learning.
+- 💞️ I’m looking to collaborate on open-source projects, innovative AI solutions, and hackathons.
+- 📫 How to reach me: [www.linkedin.com/in/ankita-agrawal12]
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving puzzles and often participate in escape room challenges
 
 <!---
 AnkitaAgrawal12/AnkitaAgrawal12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
